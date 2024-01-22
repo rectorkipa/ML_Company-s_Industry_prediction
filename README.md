@@ -1,4 +1,4 @@
-# ML pet-project: Company's Industry prediction
+# Company's Industry prediction
 
 Прогнозирование отрасли (ОКВЭД) компаний по их транзакциям. 
 
